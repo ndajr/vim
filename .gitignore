@@ -1,2 +1,14 @@
-.vim
-!.vim/.gitkeep
+.vim/.netrwhist
+
+.vim/autoload/*
+!.vim/autoload/.gitkeep
+
+.vim/backup/*
+!.vim/backup/.gitkeep
+
+.vim/plugged/*
+!.vim/plugged/.gitkeep
+
+.vim/swp/*
+!.vim/swp/.gitkeep
+
