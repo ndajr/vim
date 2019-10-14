@@ -7,10 +7,10 @@ endif
 
 
 "--------------- Initializing Config Files ---------------"
-so ./plugins.vim
-so ./config.vim
-so ./theme.vim
-so ./mappings.vim
+so ~/vim/plugins.vim
+so ~/vim/config.vim
+so ~/vim/theme.vim
+so ~/vim/mappings.vim
 
 
 "--------------- Auto-Commands ---------------"
